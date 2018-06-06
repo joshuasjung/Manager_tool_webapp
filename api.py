@@ -1,4 +1,3 @@
-#http://drksephy.github.io/2015/07/16/django/
 import json
 import requests
 import credentials
